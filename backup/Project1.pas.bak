@@ -15,7 +15,6 @@ begin
   read(a,b,c,d);
   if (a=b) and (b=c) and (c=d) then write('YES')
      else write('NO');
-  write('Лук');
  readln;
  readln;
 end.
